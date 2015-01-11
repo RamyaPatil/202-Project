@@ -1,6 +1,8 @@
 # 202-Project
 PROJECT TITLE: Feeding Nemo
+
 PURPOSE OF PROJECT: Understand GoF design pattern
+
 VERSION or DATE: 1.0
 
 HOW TO START THIS PROJECT:
