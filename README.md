@@ -8,10 +8,10 @@ HOW TO START THIS PROJECT:
    2. Run project.greenfoot using Greenfoot application
 
 AUTHORS:
-   Ramya Rajendra Patil
-   Maithili Gole
-   Abdul Malik
-   Mohd Zeeshan Shaikh
-   Nomaan Khan
+   Ramya Rajendra Patil,
+   Maithili Gole,
+   Abdul Malik,
+   Mohd Zeeshan Shaikh,
+   Nomaan Khan,
 
 USER INSTRUCTIONS:Run project.greenfoot using Greenfoot application.
